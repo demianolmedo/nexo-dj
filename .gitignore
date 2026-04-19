@@ -1,0 +1,12 @@
+myVenv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+recordings/
+# Copyright-protected audio (bring your own)
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.ogg
